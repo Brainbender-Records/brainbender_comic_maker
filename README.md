@@ -1,1 +1,1 @@
-The first 8 phases are setup for SNAP package creation. I am currently working on appimage though.
+Everything in this projects is esentially placeholders and scaffolding. It mjight work or might not. 
